@@ -8,3 +8,7 @@ All notable changes to this project will be documented in this file.
 ## [0.0.1] - 2018-07-12
 ### Changed
 -Fixed severe problem by added function phpinfo()
+
+## [0.1.0] - 2018-07-12
+### Added
+-Added test.php
