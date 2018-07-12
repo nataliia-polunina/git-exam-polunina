@@ -1,10 +1,21 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
-## [0.0.0] - 2018-07-11
+## [1.0.0] - 2018-07-12
 ### Added
--Test task
+-Added new functional
+
+## [0.1.0] - 2018-07-12
+### Added
+-Added test.php
 
 ## [0.0.1] - 2018-07-12
 ### Changed
 -Fixed severe problem by added function phpinfo()
+
+## [0.0.0] - 2018-07-11
+### Added
+-Test task
+
+
+
